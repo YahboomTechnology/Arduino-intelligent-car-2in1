@@ -1,0 +1,1 @@
+In order to avoid the interference of sunlight on the infrared sensor, the experiment must be carried out indoors.
