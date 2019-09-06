@@ -1,0 +1,1 @@
+<xml version="0.995" board="Arduino/Genuino Uno" xmlns="http://www.w3.org/1999/xhtml"><block type="Yahboom_ARCar_Music" id="@aDl3O5BG:o[cTYmtLE]" x="240" y="244"><field name="STAT">, tune1, durt1, sizeof(tune1)/sizeof(tune1[0]))</field><value name="PIN"><shadow type="pins_digital" id="q{bCn)4PjW+oJnD):Of%"><field name="PIN">8</field></shadow></value></block></xml>
