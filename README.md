@@ -11,9 +11,7 @@ Yahboom Smartduino robot is developed with well-known Arduino UNO R3 as core con
 * Controlled by IR remote control, and Bluetooth APP remote control by Android mobile.
 # Required Best Buy Links
 [By on Yahboom website](https://category.yahboom.net/collections/a-smart-robot/products/smartduino)
-# Download Method
 
-![](http://r.photo.store.qq.com/psb?/V12aIGgQ3D78BF/HPVBxL9wU5fmPxOLtVtehmyHfn8rcLiJJytrKKQPf0w!/r/dLYAAAAAAAAA)
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
 ### Facebook:
@@ -21,18 +19,7 @@ https://www.facebook.com/yahboomcar/
 
 https://www.facebook.com/yahboomtech
 ### WhatsApp:
-+86 15818515042
-
 +86 18682378128
-### Skype:
-sales_79883
-
-Dolphin2448534184@gmail.com
 ### Technical support email:
-market@yahboom.com
-### Amazon support email:
-amazon@yahboom.com
-
-
-
+support@yahboom.com
 
